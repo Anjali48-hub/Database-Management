@@ -1,0 +1,15 @@
+Sript Start Time - 22:04:48
+SQL Update Command Start Time - 22:04:48
+
+(25869 rows affected)
+
+(25869 rows affected)
+SQL Update Command End Time - 22:04:49
+2018-04-30
+Transaction Update Command Start Time - 22:04:49
+Declare Cursor Complete Time - 22:04:49
+Final Commit Transaction For Record - 0 At - 22:04:49
+Msg 3902, Level 16, State 1, Line 130
+The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+Transaction Update Command End Time - 22:04:49 At - 22:04:49
+Warning: Null value is eliminated by an aggregate or other SET operation.
